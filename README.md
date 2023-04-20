@@ -1,10 +1,8 @@
-<h3 align="center">Привет, меня зовут Алла!
+<h3>Привет, меня зовут Алла!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 <h4>Я начинающий веб-разработчик и уже приобрела прочную основу в HTML, CSS и JavaScript. Я постоянно учусь и стремлюсь совершенствовать свои навыки в этой захватывающей области.</h4>
-
 ### 💬 Контакты:
 [Email](mailto:babara@flylady.su) / [Telegram](https://t.me/Sattturday/)<br>
-<br>
 ### 🔨 Мой стек:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
