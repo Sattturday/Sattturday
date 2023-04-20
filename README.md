@@ -6,9 +6,6 @@
 [Email](mailto:babara@flylady.su) / [GitHub](https://github.com/Sattturday/) / [Telegram](https://t.me/Sattturday/)<br>
 **Phone**: +7 (919) 661-22-76
 <br>
-### 😄 Люблю учиться: 
-Яндекс.Практикум • RSSchool (EPAM) • Hexlet
-<br>
 ### 🔨 Мой стек:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +16,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)<br>
 **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
 **Development-tools:** 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sattturday)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 
