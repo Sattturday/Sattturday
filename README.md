@@ -1,7 +1,11 @@
-## 🌱 
+## 🌱 Привет! Меня зовут Алла.
 Я начинающий веб-разработчик и уже приобрела прочную основу в HTML, CSS и JavaScript. Я постоянно учусь и стремлюсь совершенствовать свои навыки в этой захватывающей области. 
 <br>
-## 😄 Люблю учиться: 
+## 💬 Контакты:
+[Email](mailto:babara@flylady.su) / [GitHub](https://github.com/Sattturday/) / [Telegram](https://t.me/Sattturday/)<br>
+**Phone**: +7 (919) 661-22-76
+<br>
+### 😄 Люблю учиться: 
 Яндекс.Практикум • RSSchool (EPAM) • Hexlet
 <br>
 ## 👩🏼‍💻 Web-development:
@@ -13,10 +17,7 @@
 **Version Control:** GIT, Github<br>
 **Development-tools:** VS code<br>
 <br>
-## 💬 Контакты:
-[Email](mailto:babara@flylady.su) / [GitHub](https://github.com/Sattturday/) / [Telegram](https://t.me/Sattturday/)<br>
-**Phone**: +7 (919) 661-22-76
-<br>
+
 
 <!--
 **Sattturday/Sattturday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
