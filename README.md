@@ -19,7 +19,6 @@
 ### 🏆 Моя статистика:
 [![codewars](https://www.codewars.com/users/Sattturday/badges/large)](https://www.codewars.com/users/Sattturday) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattturday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sattturday)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 
