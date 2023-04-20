@@ -15,7 +15,7 @@
 **Graphics software:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-**Development-tools:** 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+**Dev-tools:** 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
 ### 🏆 Моя статистика:
 [![codewars](https://www.codewars.com/users/Sattturday/badges/large)](https://www.codewars.com/users/Sattturday) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattturday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
