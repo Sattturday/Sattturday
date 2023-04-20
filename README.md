@@ -3,8 +3,7 @@
 <h4>Я начинающий веб-разработчик и уже приобрела прочную основу в HTML, CSS и JavaScript. Я постоянно учусь и стремлюсь совершенствовать свои навыки в этой захватывающей области.</h4>
 
 ### 💬 Контакты:
-[Email](mailto:babara@flylady.su) / [GitHub](https://github.com/Sattturday/) / [Telegram](https://t.me/Sattturday/)<br>
-**Phone**: +7 (919) 661-22-76
+[Email](mailto:babara@flylady.su) / [Telegram](https://t.me/Sattturday/)<br>
 <br>
 ### 🔨 Мой стек:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
