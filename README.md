@@ -1,4 +1,4 @@
-<h3>Привет, меня зовут Алла!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
+<h2>Привет, меня зовут Алла!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 Я начинающий веб-разработчик и уже приобрела прочную основу в HTML, CSS и JavaScript. Я постоянно учусь и стремлюсь совершенствовать свои навыки в этой захватывающей области.
 
 ### 💬 Контакты: [Email](mailto:babara@flylady.su) / [Telegram](https://t.me/Sattturday/)<br>
