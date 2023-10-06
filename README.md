@@ -3,7 +3,9 @@
 Я увлечена созданием креативных и интерактивных веб-приложений и с нетерпением жду возможности делиться своими достижениями и учиться у сообщества разработчиков. <br>
 Добро пожаловать в мой мир веб-разработки!
 
-### 💬 Контакты: [Email](mailto:babara@flylady.su) / [Telegram](https://t.me/Sattturday/)<br>
+### 💬 Контакты: 
+[Email](mailto:babara@flylady.su) / [Telegram](https://t.me/Sattturday/)<br>
+
 ### 🔨 Мой стек:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,5 +30,5 @@
 [![codewars](https://www.codewars.com/users/rsschool_b84c1b506d38e899/badges/large)](https://www.codewars.com/users/rsschool_b84c1b506d38e899) <br>
 <br>
 
-
+https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif
 
