@@ -30,5 +30,5 @@
 [![codewars](https://www.codewars.com/users/rsschool_b84c1b506d38e899/badges/large)](https://www.codewars.com/users/rsschool_b84c1b506d38e899) <br>
 <br>
 
-![cat](https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif)
+![cat](https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif =300x200)
 
