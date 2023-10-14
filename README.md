@@ -31,7 +31,7 @@
 
 ### 🏆 Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattturday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![codewars](https://www.codewars.com/users/rsschool_b84c1b506d38e899/badges/large)](https://www.codewars.com/users/rsschool_b84c1b506d38e899) <br>
+[![codewars](https://www.codewars.com/users/Sattturday/badges/large)](https://www.codewars.com/users/Sattturday) <br>
 <br>
 
 
